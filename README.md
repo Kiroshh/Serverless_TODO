@@ -2,7 +2,7 @@
 
 Simple TODO application using AWS Lambda and Serverless framework.
 
-Started code forked from https://github.com/udacity/cloud-developer/tree/master/course-04/project/c4-final-project-starter-code
+Starter code forked from https://github.com/udacity/cloud-developer/tree/master/course-04/project/c4-final-project-starter-code
 
 # Functionality of the application
 
